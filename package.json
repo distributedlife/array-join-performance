@@ -1,0 +1,28 @@
+{
+  "name": "array-join-performance",
+  "version": "1.0.0",
+  "description": "Testing the performance of different array join approaches",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/distributedlife/array-join-performance.git"
+  },
+  "keywords": [
+    "performance",
+    "array",
+    "join",
+    "concat"
+  ],
+  "author": "Ryan Boucher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/distributedlife/array-join-performance/issues"
+  },
+  "homepage": "https://github.com/distributedlife/array-join-performance#readme",
+  "dependencies": {
+    "benchmark": "^2.1.0"
+  }
+}
