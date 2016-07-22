@@ -29,5 +29,3 @@ prototype push x 788,978 ops/sec ±29.39% (48 runs sampled)
 es6 spread x 254,928 ops/sec ±17.68% (63 runs sampled)
 Fastest is prototype push
 ~~~
-
-There is an add 10 test but I ran out of memory running it. There is enough data for a guess at a trend.
